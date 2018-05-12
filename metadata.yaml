@@ -1,0 +1,32 @@
+_repo: The-Women-of-the-Caesars_16324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia: http://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2005-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Rome -- Biography'
+- !lcsh 'Women -- Rome -- Biography'
+- !lcc 'DG'
+- !lcsh 'Empresses -- Rome -- Biography'
+tableOfContents: Woman and marriage in ancient Rome -- Livia and Julia -- The daughters
+  of Agrippa --Tiberius and Agrippina -- The sisters of Caligula and the marriage
+  of Messalina -- Agrippina, the mother of Nero.
+title: The Women of the Caesars
+url: http://www.gutenberg.org/ebooks/16324
